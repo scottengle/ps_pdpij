@@ -1,0 +1,7 @@
+# Facade Pattern
+
+- Think about the front of a building
+- hides the complexity of an object
+- simplifies the interface
+- JQuery is an excellent example of a facade pattern (in front of the DOM);
+- does not add new functionality

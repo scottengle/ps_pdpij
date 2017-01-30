@@ -11,9 +11,10 @@
 ## Creational
 
 1. Constructor
-2. Module
-3. Factory
-4. Singleton
+2. Prototype
+3. Module
+4. Factory
+5. Singleton
 
 ## Structural
 
