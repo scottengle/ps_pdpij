@@ -1,0 +1,43 @@
+# What Constitutes a Pattern
+
+1. It solves a problem
+2. It is a proven concept
+3. The solution is not obvious (i.e. "semicolon pattern", "for loop pattern")
+4. It describes a relationaship
+5. It has a significant human component
+
+# Types of Patterns
+
+## Creational
+
+1. Constructor
+2. Module
+3. Factory
+4. Singleton
+
+## Structural
+
+1. Decorator
+2. Facade
+3. Flyweight
+
+## Behavioral
+
+1. Command
+2. Mediator
+3. Observer
+
+# Objects in JavaScript
+
+## Creating Objects
+
+1. Use curly braces // var obj = {};
+2. Object.create // var nextObj = Object.create(Object.prototype);
+3. New // var lastObj = new Object();
+
+## Reading and Writing Attributes
+
+1. Dot notation
+2. Bracket notation
+
+
