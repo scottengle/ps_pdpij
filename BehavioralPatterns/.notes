@@ -1,3 +1,7 @@
 # Behavioral Design Patterns
 
 - Concerned with the assignment of responsibilities between objects and how objects communicate
+- deal with the responsibilities of an objects
+- help objects cooperate
+- assign clear hierarchy
+- can encapsulate requests between objects
